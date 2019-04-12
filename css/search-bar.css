@@ -15,7 +15,7 @@
 }
 
 .search-bar input:focus{
-    outline-color: blue;
+    outline-color: none;
 }
 
 .search-bar i {
